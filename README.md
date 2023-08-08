@@ -203,9 +203,9 @@ The main objectives of tea talkies are
 ```
 
 ## Output:
-![mymapp.png.png](mymapp.png.png)
-![sembakkam.png.png](sembakkam.png.png)
-![sembakkam.png(2).png](sembakkam.png(2).png
+![mymapp.png.png](./mymapp.png.png)
+![sembakkam.png.png](./sembakkam.png.png)
+![sembakkam.png(2).png](./sembakkam.png(2).png)
 
 ## Result:
 the output is executed successfully
