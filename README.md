@@ -203,9 +203,8 @@ The main objectives of tea talkies are
 ```
 
 ## Output:
-![mymapp.png.png](./mymapp.png.png)
-![sembakkam.png.png](./sembakkam.png.png)
-![sembakkam.png(2).png](./sembakkam.png(2).png)
+![Untitled](https://github.com/Yuvan291205/places-around-me/assets/138849170/b0f13a9b-8ec5-4f5c-b330-0420d72eb2fc)
+![Untitled](https://github.com/Yuvan291205/places-around-me/assets/138849170/d1dd075f-7aa8-4718-a0f6-c5d6ff0fbed1)
+![Untitled](https://github.com/Yuvan291205/places-around-me/assets/138849170/9257c4d5-4fb0-4ff2-b4e9-30db62e47b29)
 
-## Result:
 the output is executed successfully
