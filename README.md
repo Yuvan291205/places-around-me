@@ -16,6 +16,7 @@ take the screenshot and uploaded it
 write the html code and run server
 
 ## Code:
+```py
 ### Jolen Hospital:
 <!DOCTYPE html>
 
@@ -199,6 +200,7 @@ The main objectives of tea talkies are
 </body>
 
 </html>
+```
 
 ## Output:
 ![mymapp.png.png](mymapp.png.png)
